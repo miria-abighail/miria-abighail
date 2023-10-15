@@ -4,6 +4,7 @@
    <br>
    <a href="https://github.com/miria-abighail">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miria-abighail&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miria-abighail&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
  <div style="display: inline_block"><br>
