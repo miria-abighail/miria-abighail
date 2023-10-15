@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil 💫
 
  <div>
+    <br>
    <a href="https://github.com/miria-abighail">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miria-abighail&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miria-abighail&layout=compact&langs_count=6&theme=tokyonight"/>
